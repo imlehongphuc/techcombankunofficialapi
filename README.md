@@ -75,9 +75,9 @@ node index.js
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature/techcombank-unofficial-api`)
+3. Commit your changes (`git commit -m 'Add some features to Techcombank API'`)
+4. Push to the branch (`git push origin feature/techcombank-unofficial-api`)
 5. Open a Pull Request
 
 ## ⚖️ Legal Notice
@@ -173,9 +173,9 @@ node index.js
 ## 🤝 Đóng Góp
 
 1. Fork kho lưu trữ
-2. Tạo nhánh tính năng của bạn (`git checkout -b feature/TinhNangTuyetVoi`)
-3. Commit các thay đổi (`git commit -m 'Thêm một tính năng tuyệt vời'`)
-4. Đẩy lên nhánh (`git push origin feature/TinhNangTuyetVoi`)
+2. Tạo nhánh tính năng của bạn (`git checkout -b feature/techcombank-unofficial-api`)
+3. Commit các thay đổi (`git commit -m 'Thêm tính năng mới cho Techcombank API'`)
+4. Đẩy lên nhánh (`git push origin feature/techcombank-unofficial-api`)
 5. Mở Pull Request
 
 ## ⚖️ Thông Báo Pháp Lý
