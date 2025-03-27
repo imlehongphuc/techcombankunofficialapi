@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🌍 Contact
 
-Project Link: [https://github.com/yourusername/techcombank-unofficial-api](https://github.com/yourusername/techcombank-unofficial-api)
+Project Link: [https://github.com/yourusername/techcombank-unofficial-api](https://github.com/imlehongphuc/techcombank-unofficial-api)
 
 ---
 
@@ -188,7 +188,7 @@ Dự án này chỉ dành cho mục đích giáo dục. Mọi việc sử dụng
 
 ## 🌍 Liên Hệ
 
-Liên kết Dự Án: [https://github.com/tenngdanh/techcombank-unofficial-api](https://github.com/tenngdanh/techcombank-unofficial-api)
+Liên kết Dự Án: [https://github.com/tenngdanh/techcombank-unofficial-api](https://github.com/imlehongphuc/techcombank-unofficial-api)
 
 ---
 
