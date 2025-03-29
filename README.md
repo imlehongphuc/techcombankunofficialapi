@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🌍 Contact
 
-Project Link: [https://github.com/yourusername/techcombank-unofficial-api](https://github.com/imlehongphuc/techcombank-unofficial-api)
+Project Link: [https://github.com/imlehongphuc/techcombank-unofficial-api](https://github.com/imlehongphuc/techcombank-unofficial-api)
 
 ---
 
@@ -128,7 +128,7 @@ Một tập lệnh Node.js không chính thức được thiết kế cho việc
 
 1. Sao chép kho lưu trữ
 ```bash
-git clone https://github.com/tenngdanh/techcombank-unofficial-api.git
+git clone https://github.com/imlehongphuc/techcombank-unofficial-api.git
 cd techcombank-unofficial-api
 ```
 
@@ -188,7 +188,7 @@ Dự án này chỉ dành cho mục đích giáo dục. Mọi việc sử dụng
 
 ## 🌍 Liên Hệ
 
-Liên kết Dự Án: [https://github.com/tenngdanh/techcombank-unofficial-api](https://github.com/imlehongphuc/techcombank-unofficial-api)
+Liên kết Dự Án: [https://github.com/imlehongphuc/techcombank-unofficial-api](https://github.com/imlehongphuc/techcombank-unofficial-api)
 
 ---
 
